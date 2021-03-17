@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7ced5d8b.chunk.css",
+    "main.js": "./static/js/main.e901d07d.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.03444686.js",
+    "static/js/2.effa5027.chunk.js": "./static/js/2.effa5027.chunk.js",
+    "static/js/3.a48fb90c.chunk.js": "./static/js/3.a48fb90c.chunk.js",
+    "static/js/4.659e7c04.chunk.js": "./static/js/4.659e7c04.chunk.js",
+    "index.html": "./index.html",
+    "static/js/2.effa5027.chunk.js.LICENSE.txt": "./static/js/2.effa5027.chunk.js.LICENSE.txt",
+    "static/js/3.a48fb90c.chunk.js.LICENSE.txt": "./static/js/3.a48fb90c.chunk.js.LICENSE.txt",
+    "static/media/alipay.01e54d29.png": "./static/media/alipay.01e54d29.png",
+    "static/media/beep.822816e8.wav": "./static/media/beep.822816e8.wav",
+    "static/media/click.63538193.wav": "./static/media/click.63538193.wav",
+    "static/media/hint.9fd5c4fa.wav": "./static/media/hint.9fd5c4fa.wav",
+    "static/media/vsc-logo.fefcea66.svg": "./static/media/vsc-logo.fefcea66.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03444686.js",
+    "static/js/2.effa5027.chunk.js",
+    "static/css/main.7ced5d8b.chunk.css",
+    "static/js/main.e901d07d.chunk.js"
+  ]
+}
